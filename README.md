@@ -1,13 +1,15 @@
-# Title
+# Μουσικός βιβλιοφάγος
 
-## Authors
+## Συγγραφείς
 
-- Author 1: Kyriakos Chatzidimitriou
-- Author 2: Name Surname
+- Συγγραφέας 1: Ιωάννα Κωνσταντοπούλου
+- Συγγραφέας 2: Στέφανος Τάικος
 
 ## Abstract
 
-A summary of your project
+
+
+
 
 ## Table of Contents
 
