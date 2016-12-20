@@ -1,10 +1,10 @@
-# Introduction
+# Εισαγωγή
 
-## Scope
+## Σκοπός
 
-Introduction section describing the application and the business requirements.
+Ο σκοπός του συγκεκριμένου εγγράφου είναι να προσδιορίσει και να παρουσιάσει με ακρίβεια και λεπτομέρεια τις απαιτήσεις του λογισμικού συστήματος. Θα γίνει περιγραφή των λειτουργιών του λογισμικού και των απαιτήσεων. Θα προσδιοριστούν οι λειτουργίες και οι ενέργειες των χρηστών. 
 
-## Glossary
+## Λεξιλόγιο
 
 Define any domain-related keywords used later on.
 
