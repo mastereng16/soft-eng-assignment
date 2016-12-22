@@ -599,7 +599,7 @@ Put the link to the relevant storyboard.md files that display how one goes from 
 
 ### 1. Απαιτήσεις φορητότητας (Portability)
 
-## ΜΛΑ-1.1
+### ΜΛΑ-1.1
 
 Η λειτουργία του συστήματος πρέπει να είναι δυνατή στους δημοφιλέστερους browsers, όπως ο Firefox, o Chrome και Safari.
 
@@ -611,7 +611,7 @@ Put the link to the relevant storyboard.md files that display how one goes from 
 **Technical priority (5/5)** 
 **Stability (4/5)**
 
-## ΜΛΑ-1.2
+### ΜΛΑ-1.2
 
 Το σύστημα πρέπει να λειτουργεί απροβλημάτιστα σε υπολογιστές με διάφορα λειτουργικά συστήματα.
 
@@ -623,7 +623,7 @@ Put the link to the relevant storyboard.md files that display how one goes from 
 **Technical Priority (3/5)** 
 **Stability (3/5)**
 
-## ΜΛΑ-1.3
+### ΜΛΑ-1.3
 
 Το σύστημα πρέπει να μπορεί να λειτουργεί απροβλημάτιστα σε desktop και mobile εκδόσεις.
 
@@ -637,7 +637,7 @@ Put the link to the relevant storyboard.md files that display how one goes from 
 
 ### 2. Aπαιτήσεις επίδοσης 
 
-## ΜΛΑ-2.1
+### ΜΛΑ-2.1
 
 Το σύστημα πρέπει να ανταποκρίνεται σε ενέργειες χρηστών σε χρόνο μικρότερο του 1 δευτερολέπτου.
 
@@ -649,7 +649,7 @@ Put the link to the relevant storyboard.md files that display how one goes from 
 **Technical Priority (5/5)** 
 **Stability (4/5)** 
 
-## ΜΛΑ-2.2 
+### ΜΛΑ-2.2 
 
 Το σύστημα πρέπει να διεκπεραιώνει μια ηλεκτρονική συναλλαγή σε λιγότερο από 5 δευτερόλεπτα.
 
@@ -664,7 +664,7 @@ Put the link to the relevant storyboard.md files that display how one goes from 
 
 ### 3. Απαιτήσεις ασφάλειας (security)
 
-## ΜΛΑ-3.1
+### ΜΛΑ-3.1
 
 Το σύστημα πρέπει να υποστηρίζει κρυπτογράφηση SSL 128-bit για την προστασία των προσωπικών στοιχείων των χρηστών και την διεκπεραίωση ηλεκτρονικών συναλλαγών. 
 
@@ -678,7 +678,7 @@ Put the link to the relevant storyboard.md files that display how one goes from 
 
 ### 4. Απαιτήσεις χρηστικότητας (Usability)
 
-## ΜΛΑ-4.1
+### ΜΛΑ-4.1
 
 Το σύστημα πρέπει να προτείνει στον χρήστη πελάτη προσφορές προϊόντων που υπάρχουν στις διαθέσιμες κατηγορίες σύμφωνα με το ιστορικό των παραγγελιών του.
 
@@ -691,7 +691,7 @@ Put the link to the relevant storyboard.md files that display how one goes from 
 **Technical Priority (1/5)** 
 **Stability (5/5)** 
 
-## ΜΛΑ-4.2
+### ΜΛΑ-4.2
 
 Το σύστημα πρέπει να ενημερώνεται από την χρήστη κατάστημα για την κατάσταση της παραγγελίας μετά την ολοκλήρωσή της ως επιτυχημένη ή αποτυχημένη.
 
@@ -705,7 +705,7 @@ Put the link to the relevant storyboard.md files that display how one goes from 
 
 ### 5. Απαιτήσεις αξιοπιστίας (Reliability)
 
-## ΜΛΑ-5.1
+### ΜΛΑ-5.1
 
 Το σύστημα πρέπει να είναι σε λειτουργία το 99% του χρόνου.
 
@@ -719,7 +719,7 @@ Put the link to the relevant storyboard.md files that display how one goes from 
 
 ### 6. Απαιτήσεις συντηρησιμότητας (Maintainability)
 
-## ΜΛΑ-6.1
+### ΜΛΑ-6.1
 
 Το σύστημα πρέπει να καταγράφει όλα τα σφάλματα που προκύπτουν από τις διεπαφές με τους χρήστες.
 
@@ -733,7 +733,7 @@ Put the link to the relevant storyboard.md files that display how one goes from 
 
 ### 7. Απαιτήσεις πολιτικής (Policy - legal)
 
-## ΜΛΑ-7.1
+### ΜΛΑ-7.1
 
 Το σύστημα πρέπει να ακολουθεί την πολιτική ακύρωσης του χρήστη κατάστημα σε περίπτωση ακύρωσης από τον χρήστη πελάτη.
 
