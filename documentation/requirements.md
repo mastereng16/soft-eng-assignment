@@ -608,7 +608,9 @@ Put the link to the relevant storyboard.md files that display how one goes from 
 Οι τρεις παραπάνω browsers κατέχουν το μεγαλύτερο ποσοστό στις προτιμήσεις των χρηστών κι έτσι η λειτουργία του συστήματος πρέπει να υποστηρίζεται σε αυτούς.
 
 **User Priority (5/5)** 
+
 **Technical priority (5/5)** 
+
 **Stability (4/5)**
 
 ### ΜΛΑ-1.2
@@ -620,7 +622,9 @@ Put the link to the relevant storyboard.md files that display how one goes from 
 Το σύστημα πρέπει να υποστηρίζει τα τρία δημοφιλεστερα λειτουργικά συστήματα, όπως τα Windows, Apple OS και Linux καλύπτοντας έτσι σχεδόν το σύνολο των υπολογιστών των χρηστών.
 
 **User Priority (5/5)** 
+
 **Technical Priority (3/5)** 
+
 **Stability (3/5)**
 
 ### ΜΛΑ-1.3
@@ -632,7 +636,9 @@ Put the link to the relevant storyboard.md files that display how one goes from 
 Εκτός από τα λειτουργικά συστήματα των desktop υπολογιστών θα πρέπει να υποστηρίζει mobile εκδόσεις στα δύο πιο σημαντικά λειτουργικά όπως το Android και το ios της Apple .
 
 **User Priority (5/5)** 
+
 **Technical Priority (3/5)** 
+
 **Stability (3/5)** 
 
 ### 2. Aπαιτήσεις επίδοσης 
@@ -646,7 +652,9 @@ Put the link to the relevant storyboard.md files that display how one goes from 
 Με αυτόν τον τρόπο θα εξυπηρετεί γρήγορα ένα μεγάλο αριθμό χρηστών χωρίς να κρεμάει το σύστημα.
 
 **User Priority (5/5)** 
+
 **Technical Priority (5/5)** 
+
 **Stability (4/5)** 
 
 ### ΜΛΑ-2.2 
@@ -658,7 +666,9 @@ Put the link to the relevant storyboard.md files that display how one goes from 
 Το σύστημα πρέπει να ολοκληρώνει ηλεκτρονικές συναλλαγές γρήγορα και εύκολα σε πολλούς χρήστες ταυτόχρονα ώστε να είναι εύχρηστο και λειτουργικό.
 
 **User Priority (5/5)** 
+
 **Technical Priority (5/5)** 
+
 **Stability (4/5)** 
 
 
@@ -673,7 +683,9 @@ Put the link to the relevant storyboard.md files that display how one goes from 
 Με αυτόν τον τρόπο διασφαλίζονται οι συναλλαγές των χρηστών ώστε να μην πέφτουν θύματα υποκλοπών χρημάτων αλλά και ευαίσθητων προσωπικών δεδομένων.
 
 **User Priority (5/5)** 
+
 **Technical Priority (5/5)** 
+
 **Stability (5/5)** 
 
 ### 4. Απαιτήσεις χρηστικότητας (Usability)
@@ -686,9 +698,10 @@ Put the link to the relevant storyboard.md files that display how one goes from 
 
 Το σύστημα πρέπει να έχει την δυνατότητα ,βασιζόμενο στο ιστορικό των συναλλαγών του κάθε χρήση, να κάνει προτάσεις  με προσφορές προϊόντων που πιθανόν να είναι στις προτιμήσεις του χρήστη .
 
-
 **User Priority (3/5)** 
+
 **Technical Priority (1/5)** 
+
 **Stability (5/5)** 
 
 ### ΜΛΑ-4.2
@@ -700,7 +713,9 @@ Put the link to the relevant storyboard.md files that display how one goes from 
 Για την σωστή εξέλιξη της παραγγελίας ο χρήστης κατάστημα χρειάζεται να ενημερώνει εάν η συναλλαγή ολοκληρώθηκε επιτυχημένα χωρίς κανένα πρόβλημα ή εάν δεν ολοκληρώθηκε σε περίπτωση που ο χρήστης πελάτης ακύρωσε την παραγγελία του.
 
 **User Priority (3/5)** 
+
 **User Priority (1/5)** 
+
 **Stability (5/5)** 
 
 ### 5. Απαιτήσεις αξιοπιστίας (Reliability)
@@ -714,7 +729,9 @@ Put the link to the relevant storyboard.md files that display how one goes from 
 Είναι απαραίτητο ο server να λειτουργεί επί 24ωρου βάσεως για την καλύτερη εξυπηρέτηση των χρηστών.
 
 **User Priority (5/5)** 
+
 **Technical Priority (5/5)** 
+
 **Stability (4/5)** 
 
 ### 6. Απαιτήσεις συντηρησιμότητας (Maintainability)
@@ -728,7 +745,9 @@ Put the link to the relevant storyboard.md files that display how one goes from 
 Με την υπηρεσία της καταγραφής των σφαλμάτων  το σύστημα ενημερώνει τους administrators του συστήματος για τα προβλήματα που δημιουργούνται με σκοπό την βελτίωση του.
 
 **User Priority (5/5)** 
+
 **Technical Priority (5/5)** 
+
 **Stability (5/5)** 
 
 ### 7. Απαιτήσεις πολιτικής (Policy - legal)
@@ -742,5 +761,7 @@ Put the link to the relevant storyboard.md files that display how one goes from 
 Το κάθε κατάστημα έχει τους δικούς όρους και προϋποθέσεις στις ακυρώσεις αγορών από του χρήστες. Έτσι το σύστημα βαζει το χρήστη να υπόκειται στους κανόνες του εκάστοτε καταστήματος χωρίς το σύστημα να εμπλέκεται στις μεταξύ τους συναλλαγές.
 
 **User Priority (5/5)** 
+
 **Technical Priority (5/5)** 
+
 **Stability (5/5)** 
