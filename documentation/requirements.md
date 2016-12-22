@@ -595,7 +595,7 @@ Put the link to the relevant storyboard.md files that display how one goes from 
 
 ## Non-Functional Requirements
 
-### Μη Λειτουργικές Απαιτήσεις
+## Μη Λειτουργικές Απαιτήσεις
 
 ### 1. Απαιτήσεις φορητότητας (Portability)
 
