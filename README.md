@@ -15,9 +15,9 @@
 
 Links to the documents you have created
   
-1. [Εισαγωγή]
-2. [Απαιτήσεις Χρηστών]
-3. Storyboards
-   * [Εγγραφή νέου χρήστη]
-   * [Καλάθι αγορών]
-3. [Requirements]
+1. [Εισαγωγή] (https://github.com/mastereng16/soft-eng-assignment/blob/master/documentation/intro.md)
+2. [Απαιτήσεις Χρηστών] (https://github.com/mastereng16/soft-eng-assignment/blob/master/documentation/requirements.md)
+3. [Storyboards] (https://github.com/mastereng16/soft-eng-assignment/blob/master/documentation/demo-storyboard.md)
+ * Εγγραφή νέου χρήστη
+ * Καλάθι αγορών
+3. [Requirements] (https://github.com/mastereng16/soft-eng-assignment/tree/master/requirements)
