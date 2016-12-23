@@ -23,7 +23,7 @@
 
 Η διαδικασία γίνεται με ένα συγκεκριμένο τρόπο ο οποίος δεν μεταβάλλεται . 
 
-#### Σενάρια 
+#### Σενάρια Χρήστη
 
  (https://github.com/mastereng16/soft-eng-assignment/blob/master/requirements/1.%CE%A4%CE%B1%CF%85%CF%84%CE%BF%CF%80%CE%BF%CE%AF%CE%B7%CF%83%CE%B7.feature) 
  
@@ -47,9 +47,9 @@
 
 Η  λειτουργία επιλογής γλώσσας γίνεται με ένα συγκεκριμένο τρόπο και δεν μεταβάλλεται.
 
-#### User story
+#### Σενάρια χρήστη
 
-link
+(https://github.com/mastereng16/soft-eng-assignment/blob/master/requirements/2.%CE%95%CF%80%CE%B9%CE%BB%CE%BF%CE%B3%CE%AE%20%CE%B3%CE%BB%CF%8E%CF%83%CF%83%CE%B1%CF%82.feature)
 
 ### ΛΑ-3
 
@@ -70,9 +70,9 @@ link
 
 Η λειτουργία των κατηγοριών  θα μπορούσε να μεταβληθεί σε μια ενδεχόμενη αναβάθμιση του συστήματος.
 
-#### User story
+#### Σενάρια χρήστη
 
-
+(https://github.com/mastereng16/soft-eng-assignment/blob/master/requirements/3.%CE%9A%CE%B1%CF%84%CE%B7%CE%B3%CE%BF%CF%81%CE%AF%CE%B5%CF%82.feature)
 
 ### ΛΑ-4
 
@@ -94,9 +94,9 @@ link
 
 Η δημοσίευση γίνεται με ένα συγκεκριμένο τρόπο ο οποίος δεν μεταβάλλεται.
 
-#### User story
+#### Σενάρια χρήστη
 
-
+(https://github.com/mastereng16/soft-eng-assignment/blob/master/requirements/3.%CE%9A%CE%B1%CF%84%CE%B7%CE%B3%CE%BF%CF%81%CE%AF%CE%B5%CF%82.feature)
 
 ### ΛΑ-5
 
@@ -118,9 +118,13 @@ link
 
 Η επεξεργασία και η διαγραφή των πληροφοριών από το διαχειριστή δεν πρόκειται να μεταβληθούν με το πέρασμα του χρόνου. 
 
-#### User story
+#### Σενάρια χρήστη
 
+(https://github.com/mastereng16/soft-eng-assignment/blob/master/requirements/5.%CE%95%CF%80%CE%B5%CE%BE%CE%B5%CF%81%CE%B3%CE%B1%CF%83%CE%B9%CE%B1-%CE%B4%CE%B9%CE%B1%CE%B3%CF%81%CE%B1%CF%86%CE%AE.feature)
 
+(https://github.com/mastereng16/soft-eng-assignment/blob/master/requirements/5.3%CE%91%CF%80%CF%8C%CE%B8%CE%B5%CE%BC%CE%B1.feature)
+
+(https://github.com/mastereng16/soft-eng-assignment/blob/master/requirements/5.4%CE%9C%CE%B7%20%CE%B4%CE%B9%CE%B1%CE%B8%CE%AD%CF%83%CE%B9%CE%BC%CE%BF%20%CF%80%CF%81%CE%BF%CF%8A%CF%8C%CE%BD.feature)
 
 ### ΛΑ-6
 
@@ -142,7 +146,7 @@ O χρήστης κατάστημα πρέπει να ενημερώνει το 
 
 Η διαδικασία ενημέρωσης θα γίνεται με ένα συγκεκριμένο τρόπο, για τον όποιο δεν υπάρχει ιδιαίτερος λόγος μεταβολής. 
 
-#### User story
+#### 
 
 
 
