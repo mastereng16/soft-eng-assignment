@@ -1,4 +1,4 @@
-
+ 
 # Απαιτήσεις Χρηστών
 
 ## Λειτουργικές Απαιτήσεις και Ιστορίες Χρηστών
@@ -21,12 +21,12 @@
 
 **Stability (5/5)**
 
-Η διαδικασία γίνεται με ένα συγκεκριμένο τρόπο ο οποίος δεν μεταβάλλεται .
+Η διαδικασία γίνεται με ένα συγκεκριμένο τρόπο ο οποίος δεν μεταβάλλεται . 
 
-#### User story
+#### Σενάρια 
 
-Create here the related feature/user story based on BDD and the Gherkin syntax (https://github.com/cucumber/cucumber/wiki/Gherkin). Do that by putting a link to the relevant feature file.
-
+ (https://github.com/mastereng16/soft-eng-assignment/blob/master/requirements/1.%CE%A4%CE%B1%CF%85%CF%84%CE%BF%CF%80%CE%BF%CE%AF%CE%B7%CF%83%CE%B7.feature) 
+ 
 ### ΛΑ-2
 
 Ο χρήστης επισκέπτης και πελάτης πρέπει να μπορούν να επιλέγουν τη γλώσσα λειτουργίας του συστήματος.
