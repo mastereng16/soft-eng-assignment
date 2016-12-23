@@ -18,5 +18,6 @@ Links to the documents you have created
 1. [Εισαγωγή]
 2. [Απαιτήσεις Χρηστών]
 3. Storyboards
-   * [Ταυτοποίηση χρήστη πελάτη]
+   * [Εγγραφή νέου χρήστη]
+   * [Καλάθι αγορών]
 3. [Requirements]
