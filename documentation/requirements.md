@@ -146,9 +146,9 @@ O χρήστης κατάστημα πρέπει να ενημερώνει το 
 
 Η διαδικασία ενημέρωσης θα γίνεται με ένα συγκεκριμένο τρόπο, για τον όποιο δεν υπάρχει ιδιαίτερος λόγος μεταβολής. 
 
-#### 
+#### Σενάρια χρήστη
 
-
+(https://github.com/mastereng16/soft-eng-assignment/blob/master/requirements/6.%CE%A0%CE%BB%CE%B7%CF%81%CE%BF%CF%86%CE%BF%CF%81%CE%AF%CE%B5%CF%82.feature)
 
 ### ΛΑ-7
 
@@ -170,9 +170,9 @@ O χρήστης κατάστημα πρέπει να ενημερώνει το 
 
 Η λειτουργική απαίτηση μπορεί να μεταβληθεί όπως και να παραληφθεί.
 
-#### User story
+#### Σενάρια χρήστη
 
-
+(https://github.com/mastereng16/soft-eng-assignment/blob/master/requirements/7.%CE%9C%CF%80%CE%BB%CE%BF%CE%BA%CE%B1%CF%81%CE%B9%CF%83%CE%BC%CE%B1.feature)
 
 ### ΛΑ-8
 
@@ -194,9 +194,9 @@ O χρήστης κατάστημα πρέπει να ενημερώνει το 
 
 Η συγκεκριμένη Λ.Α  δεν μπορεί να μεταβληθεί.
 
-#### User story
+#### Σενάρια χρήστη
 
-
+(https://github.com/mastereng16/soft-eng-assignment/blob/master/requirements/8.%CE%A0%CF%81%CE%BF%CF%84%CE%B9%CE%BC%CE%AE%CF%83%CE%B5%CE%B9%CF%82%20%CF%87%CF%81%CE%B7%CF%83%CF%84%CF%8E%CE%BD.feature)
 
 ### ΛΑ-9
 
@@ -218,9 +218,9 @@ O χρήστης κατάστημα πρέπει να ενημερώνει το 
 
 Η  μορφή της λειτουργίας της αναζήτησης μπορεί να μεταβληθεί. 
 
-#### User story
+#### Σενάρια χρήστη
 
-
+(https://github.com/mastereng16/soft-eng-assignment/blob/master/requirements/9.%CE%91%CE%BD%CE%B1%CE%B6%CE%AE%CF%84%CE%B7%CF%83%CE%B7.feature)
 
 ### ΛΑ-10
 
@@ -242,9 +242,9 @@ O χρήστης κατάστημα πρέπει να ενημερώνει το 
 
 Η λειτουργία της αναζήτησης με βάση κάποια συγκεκριμένα κριτήρια μπορεί να μεταβληθεί. Τα κριτήρια μπορεί να αλλάξουν αλλά και η μορφή της αναζήτησης.
 
-#### User story
+#### Σενάρια χρήστη
 
-
+(https://github.com/mastereng16/soft-eng-assignment/blob/master/requirements/10.%CE%A6%CE%AF%CE%BB%CF%84%CF%81%CE%B1.feature)
 
 ### ΛΑ-11
 
@@ -266,9 +266,9 @@ O χρήστης κατάστημα πρέπει να ενημερώνει το 
 
 Η λειτουργική απαίτηση μπορεί να μεταβληθεί.
 
-#### User story
+#### Σενάρια χρήστη
 
-
+(https://github.com/mastereng16/soft-eng-assignment/blob/master/requirements/11.%CE%A3%CF%87%CE%B5%CF%84%CE%B9%CE%BA%CE%AC%20%CF%80%CF%81%CE%BF%CF%8A%CF%8C%CE%BD%CF%84%CE%B1.feature)
 
 ### ΛΑ-12
 
@@ -290,9 +290,9 @@ O χρήστης κατάστημα πρέπει να ενημερώνει το 
 
 Η λειτουργική απαίτηση θα μπορούσε να μεταβληθεί αλλά δεν υπάρχει λόγος να γίνει.
 
-#### User story
+#### Σενάρια χρήστη
 
-
+(https://github.com/mastereng16/soft-eng-assignment/blob/master/requirements/12.%CE%94%CE%B9%CE%B1%CE%B8%CE%B5%CF%83%CE%B9%CE%BC%CF%8C%CF%84%CE%B7%CF%84%CE%B1.feature)
 
 ### ΛΑ-13
 
@@ -308,14 +308,13 @@ O χρήστης κατάστημα πρέπει να ενημερώνει το 
 
 Είναι πολύ σημαντική η συγκεκριμένη ΛΑ γιατί το σύστημα λειτουργεί πιο οργανωμένα με την ύπαρξη του καλαθιού αγορών.
 
-
 **Stability (5/5)**
 
 Δεν μπορεί να μεταβληθεί αυτή η ΛΑ.
 
-#### User story
+#### Σενάρια χρήστη
 
-
+(https://github.com/mastereng16/soft-eng-assignment/blob/master/requirements/13.%CE%9A%CE%B1%CE%BB%CE%AC%CE%B8%CE%B9%20%CE%B1%CE%B3%CE%BF%CF%81%CF%8E%CE%BD.feature)
 
 ### ΛΑ–14
 
@@ -337,9 +336,9 @@ O χρήστης κατάστημα πρέπει να ενημερώνει το 
 
 Η λογική της συγκεκριμένης λειτουργικής απαίτησης είναι μία και δεν μπορεί να μεταβληθεί. Το μόνο που θα μπορούσε να αλλάξει είναι η τοποθέτηση του σημαδιού της καρδιάς
 
-#### User story
+#### Σενάρια χρήστη
 
-
+(https://github.com/mastereng16/soft-eng-assignment/blob/master/requirements/14.%CE%91%CE%B3%CE%B1%CF%80%CE%B7%CE%BC%CE%AD%CE%BD%CE%B1.feature)
 
 ### ΛΑ-15
 
@@ -361,9 +360,9 @@ O χρήστης κατάστημα πρέπει να ενημερώνει το 
 
 Η λειτουργική απαίτηση ΛΑ-15 δεν μπορεί να μεταβληθεί.
 
-#### User story
+#### Σενάρια χρήστη
 
-
+(https://github.com/mastereng16/soft-eng-assignment/blob/master/requirements/15.%CE%A0%CE%B1%CF%81%CE%B1%CE%B3%CE%B3%CE%B5%CE%BB%CE%AF%CE%B5%CF%82%20%CF%87%CF%81%CE%B7%CF%83%CF%84%CF%8E%CE%BD.feature)
 
 ### ΛΑ-16
 
@@ -387,7 +386,7 @@ O χρήστης κατάστημα πρέπει να ενημερώνει το 
 
 #### User story
 
-
+(https://github.com/mastereng16/soft-eng-assignment/blob/master/requirements/16.%CE%97%CE%BB%CE%B5%CE%BA%CF%84%CF%81%CE%BF%CE%BD%CE%B9%CE%BA%CE%AE%20%CE%B1%CF%80%CF%8C%CE%B4%CE%B5%CE%B9%CE%BE%CE%B7.feature)
 
 ### ΛΑ-17
 
@@ -409,9 +408,9 @@ O χρήστης κατάστημα πρέπει να ενημερώνει το 
 
 Η λειτουργική απαίτηση δεν μπορεί να μεταβληθεί.
 
-#### User story
+#### Σενάρια χρήστη
 
-
+(https://github.com/mastereng16/soft-eng-assignment/blob/master/requirements/17.%CE%91%CE%BA%CF%8D%CF%81%CF%89%CF%83%CE%B7%20%CF%80%CE%B1%CF%81%CE%B1%CE%B3%CE%B3%CE%B5%CE%BB%CE%AF%CE%B1%CF%82.feature)
 
 ### ΛΑ-18
 
@@ -434,9 +433,9 @@ O χρήστης κατάστημα πρέπει να ενημερώνει το 
 
 Η λειτουργική απαίτηση δεν μπορεί να μεταβληθεί.
 
-#### User story
+#### Σενάρια χρήστη
 
-
+(https://github.com/mastereng16/soft-eng-assignment/blob/master/requirements/18.%CE%95%CE%BD%CE%B7%CE%BC%CE%AD%CF%81%CF%89%CF%83%CE%B7%20%CE%B1%CE%BA%CF%8D%CF%81%CF%89%CF%83%CE%B7%CF%82.feature)
 
 ### ΛΑ-19
 
@@ -458,9 +457,9 @@ O χρήστης πελάτης πρέπει να μπορεί να αξιολο
 
 Η λογική της συγκεκριμένης λειτουργικής απαίτησης είναι μία και δεν μπορεί να μεταβληθεί. 
 
-#### User story
+#### Σενάρια χρήστη
 
-
+(https://github.com/mastereng16/soft-eng-assignment/blob/master/requirements/19.%CE%91%CE%BE%CE%B9%CE%BF%CE%BB%CF%8C%CE%B3%CE%B7%CF%83%CE%B7%20%CF%80%CF%81%CE%BF%CF%8A%CF%8C%CE%BD%CF%84%CE%BF%CF%82.feature)
 
 ### ΛΑ-20
 
@@ -482,9 +481,9 @@ O χρήστης πελάτης πρέπει να μπορεί να αξιολο
 
 Η λογική της συγκεκριμένης λειτουργικής απαίτησης είναι μία και δεν μπορεί να μεταβληθεί. 
 
-#### User story
+#### Σενάρια χρήστη
 
-
+(https://github.com/mastereng16/soft-eng-assignment/blob/master/requirements/20.%CE%91%CE%BE%CE%B9%CE%BF%CE%BB%CF%8C%CE%B3%CE%B7%CF%83%CE%B7%20%CE%BA%CE%B1%CF%84%CE%B1%CF%83%CF%84%CE%AE%CE%BC%CE%B1%CF%84%CE%BF%CF%82.feature)
 
 ### ΛΑ-21
 
@@ -506,9 +505,9 @@ O χρήστης πελάτης πρέπει να μπορεί να αξιολο
 
 Η ΛΑ-21 μπορεί να μεταβληθεί. Θα μπορούσαν να δέχονται ηλεκτρονικό μήνυμα με προσφορές μόνο οι χρήστες πελάτες δηλαδή οι εγγεγραμμένοι χρήστες και όχι οι χρήστες επισκέπτες. 
 
-#### User story
+#### Σενάρια χρήστη
 
-
+(https://github.com/mastereng16/soft-eng-assignment/blob/master/requirements/21.newsletter.feature)
 
 ### ΛΑ-22
 
@@ -530,9 +529,11 @@ O χρήστης πελάτης πρέπει να μπορεί να αξιολο
 
 Η λειτουργία της αγοράς γίνεται μ ένα συγκεκριμένο τρόπο ο οποίος δεν μεταβάλλεται.
 
-#### User story
+#### Σενάρια χρήστη
 
+(https://github.com/mastereng16/soft-eng-assignment/blob/master/requirements/22.%CE%A0%CE%B1%CF%81%CE%B1%CE%B3%CE%B3%CE%B5%CE%BB%CE%AF%CE%B1%20%CF%87%CF%81%CE%AE%CF%83%CF%84%CE%B7.feature)
 
+(https://github.com/mastereng16/soft-eng-assignment/blob/master/requirements/22.2%CE%A4%CF%81%CE%BF%CF%80%CE%BF%CF%80%CE%BF%CE%AF%CE%B7%CF%83%CE%B7%20%CF%80%CE%B1%CF%81%CE%B1%CE%B3%CE%B3%CE%B5%CE%BB%CE%AF%CE%B1%CF%82.feature)
 
 ### ΛΑ-23
 
@@ -554,9 +555,9 @@ O χρήστης πελάτης πρέπει να μπορεί να αξιολο
 
 Η λειτουργική απαίτηση δεν μπορεί να μεταβληθεί.
 
-#### User story
+#### Σενάρια χρήστη
 
-
+(https://github.com/mastereng16/soft-eng-assignment/blob/master/requirements/23.%CE%91%CF%80%CE%BF%CF%83%CF%8D%CE%BD%CE%B4%CE%B5%CF%83%CE%B7.feature)
 
 ### ΛΑ-24
 
@@ -578,12 +579,9 @@ O χρήστης επισκέπτης και ο χρήστης πελάτης θ
 
 Η εμφάνιση των μουσικών νέων κάτω στην αρχική οθόνη θα μπορούσε να μεταβληθεί και να παρουσιάζεται ξεχωριστά ως μια κατηγορία.
 
-#### User story
+#### Σενάρια χρήστη
 
-link
-
-
-
+(https://github.com/mastereng16/soft-eng-assignment/blob/master/requirements/24%2C%CE%9C%CE%BF%CF%85%CF%83%CE%B9%CE%BA%CE%AC%20%CE%BD%CE%AD%CE%B1.feature)
 
 ## Use case diagram
 
