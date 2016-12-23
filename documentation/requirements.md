@@ -588,7 +588,7 @@ O χρήστης επισκέπτης και ο χρήστης πελάτης θ
 
 ## Activity diagrams
 
-Create activity diagrams to portray the flow of basic user process in the system.
+![Aναζήτηση](https://github.com/mastereng16/my-project/blob/10d481e0e98517cb40e342c1560da10e332d3aa4/MOCKUPS/%CE%A3%CE%B5%CE%BD%CE%AC%CF%81%CE%B9%CE%BF%209%20(A%CE%BD%CE%B1%CE%B6%CE%AE%CF%84%CE%B7%CF%83%CE%B7).jpg)
 
 ## Mockups and Storyboards
 
