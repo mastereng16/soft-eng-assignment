@@ -592,9 +592,8 @@ O χρήστης επισκέπτης και ο χρήστης πελάτης θ
 
 ## Mockups and Storyboards
 
-Put the link to the relevant storyboard.md files that display how one goes from one mockup to another.
-
-## Non-Functional Requirements
+[Mockups](https://github.com/mastereng16/my-project/tree/master/MOCKUPS0)
+[Storyboards](https://github.com/mastereng16/soft-eng-assignment/blob/master/documentation/demo-storyboard.md)
 
 ## Μη Λειτουργικές Απαιτήσεις
 
