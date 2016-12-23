@@ -584,8 +584,7 @@ O χρήστης επισκέπτης και ο χρήστης πελάτης θ
 (https://github.com/mastereng16/soft-eng-assignment/blob/master/requirements/24%2C%CE%9C%CE%BF%CF%85%CF%83%CE%B9%CE%BA%CE%AC%20%CE%BD%CE%AD%CE%B1.feature)
 
 ## Use case diagram
-
-Representation of all users and user stories/use cases
+!(https://github.com/mastereng16/my-project/blob/master/MOCKUPS/UML%20USE%20CASE%20DIAGRAM.png)
 
 ## Activity diagrams
 
