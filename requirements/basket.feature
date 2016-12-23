@@ -1,29 +1,24 @@
-Feature: basket
+Feature: Ταυτοποίηση
+        
+-       (As) Ως χρήστης πελάτης/κατάστημα/διαχειριστής/επισκέπτης
+        (In order to) Για να εξερευνήσω τις δυνατότητες του συστήματος
+        (Ι want to) Θέλω να πλοηγηθώ εντός της αρχικής σελίδας.
 
-	# POST /baskets
-	# GET, PUT, DELETE /baskets/{basket_id}
+Σενάριο 1.1 (Είσοδος – χρήστη πελάτη)
 
-	Background:
-		Given each basket belongs to the "baskets"
+-	(Given) Θεωρώντας ότι πρέπει να κάνω ταυτοποίηση κατά την είσοδό μου στο σύστημα
+-	(When) Όταν πληκτρολογήσω το Όνομα χρήστη και τον Κωδικό μου 
+-	(And) Και επιλέξω Είσοδος
+-	(Τhen) Τότε πρέπει να εμφανιστεί η αρχική σελίδα του συστήματος.
 
-	Scenario: new basket
-		When I submit <products> to the basket
-			|name|qt|
-		Then I should see the created basket
-		And I should be prompted to order
-		And I should have the option to view my basket
 
-	Scenario: update basket
-		Given I have a basket with products
-		When I update the basket with new <products>
-			|name|qt|
-		Then I should see the updated basket
-		And I should be prompted to order
-		And I should have the option to view my basket
 
-	Scenario: retrieve basket
-		Given I have a basket with products
-		When I retrieve the basket by it's id
-		Then I should see it's contents
-		And I should be prompted to order
-		And I should have the option to view my basket
+
+
+
+
+
+
+
+
+
