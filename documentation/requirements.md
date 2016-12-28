@@ -594,7 +594,7 @@ O χρήστης επισκέπτης και ο χρήστης πελάτης θ
 
 ![Παραγγελία](https://github.com/mastereng16/my-project/blob/master/MOCKUPS/%CE%A3%CE%B5%CE%BD%CE%B1%CC%81%CF%81%CE%B9%CE%BF%2022.1%20(%CE%9A%CE%B1%CC%81%CE%BD%CE%BF%CE%BD%CF%84%CE%B1%CF%82%20%CF%80%CE%B1%CF%81%CE%B1%CE%B3%CE%B3%CE%B5%CE%BB%CE%B9%CC%81%CE%B1).jpg)
 
-![Κατηγορίες](https://github.com/mastereng16/my-project/blob/master/MOCKUPS/%CE%A3%CE%B5%CE%BD%CE%B1%CC%81%CF%81%CE%B9%CE%BF%203%20(%CE%A0%CE%B5%CF%81%CE%B9%CC%81%CE%B7%CE%B3%CE%B7%CF%83%CE%B7%20%CF%83%CF%84%CE%B9%CF%82%20%CE%BA%CE%B1%CF%84%CE%B7%CE%B3%CE%BF%CF%81%CE%B9%CC%81%CE%B5%CF%82.png)
+![Κατηγορίες] (https://github.com/mastereng16/my-project/blob/master/MOCKUPS/%CE%A3%CE%B5%CE%BD%CE%B1%CC%81%CF%81%CE%B9%CE%BF%203%20(%CE%A0%CE%B5%CF%81%CE%B9%CC%81%CE%B7%CE%B3%CE%B7%CF%83%CE%B7%20%CF%83%CF%84%CE%B9%CF%82%20%CE%BA%CE%B1%CF%84%CE%B7%CE%B3%CE%BF%CF%81%CE%B9%CC%81%CE%B5%CF%82.png)
 
 ## Mockups and Storyboards
 
